@@ -1,0 +1,12 @@
+input_dir: Sources/Assets/Resources 
+output_dir: Sources/Assets
+
+xcassets:
+  inputs:
+    - Images.xcassets
+  outputs:
+    - templateName: swift5
+      output: Images.swift
+      params:
+        publicAccess: true
+

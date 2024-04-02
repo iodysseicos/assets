@@ -9,4 +9,5 @@ xcassets:
       output: Images.swift
       params:
         publicAccess: true
+        enumName: Images
 

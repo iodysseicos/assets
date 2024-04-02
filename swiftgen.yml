@@ -4,10 +4,11 @@ output_dir: Sources/Assets
 xcassets:
   inputs:
     - Images.xcassets
+    - Colors.xcassets
   outputs:
     - templateName: swift5
-      output: Images.swift
+      output: Assets.swift
       params:
         publicAccess: true
-        enumName: Images
+        enumName: Assets
 

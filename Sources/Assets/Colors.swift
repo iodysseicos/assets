@@ -14,7 +14,7 @@ public struct Colors {
     public static let purple_100 = Color("purple-100")
     public static let purple_200 = Color("purple-200")
     public static let purple_300 = Color("purple-300")
-    public static let purple_400 = Color("purple/purple-400")
+    public static let purple_400 = Color("purple-400")
     public static let purple_500 = Color("purple-500")
     public static let purple_600 = Color("purple-600")
     public static let purple_700 = Color("purple-700")

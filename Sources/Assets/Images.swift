@@ -22,6 +22,14 @@ public typealias AssetImageTypeAlias = ImageAsset.Image
 
 // swiftlint:disable identifier_name line_length nesting type_body_length type_name
 public enum Images {
+  public static let flowIntenseNotSelected = ImageAsset(name: "flow_intenseNotSelected")
+  public static let flowIntenseSelected = ImageAsset(name: "flow_intenseSelected")
+  public static let flowLightNotSelected = ImageAsset(name: "flow_lightNotSelected")
+  public static let flowLightSelected = ImageAsset(name: "flow_lightSelected")
+  public static let flowModerateNotSelected = ImageAsset(name: "flow_moderateNotSelected")
+  public static let flowModerateSelected = ImageAsset(name: "flow_moderateSelected")
+  public static let flowVeryLightNotSelected = ImageAsset(name: "flow_veryLightNotSelected")
+  public static let flowVeryLightSelected = ImageAsset(name: "flow_veryLightSelected")
   public static let moodAngry = ImageAsset(name: "mood_angry")
   public static let moodAnxious = ImageAsset(name: "mood_anxious")
   public static let moodApathetic = ImageAsset(name: "mood_apathetic")

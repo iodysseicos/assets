@@ -59,9 +59,6 @@ public enum Images {
   public static let symptomLargeappetite = ImageAsset(name: "symptom_largeappetite")
   public static let symptomNausea = ImageAsset(name: "symptom_nausea")
   public static let symptomTenderbreasts = ImageAsset(name: "symptom_tenderbreasts")
-  public static let dodge = ImageAsset(name: "dodge")
-  public static let pikachu = ImageAsset(name: "pikachu")
-  public static let sadFrog = ImageAsset(name: "sad_frog")
 }
 // swiftlint:enable identifier_name line_length nesting type_body_length type_name
 

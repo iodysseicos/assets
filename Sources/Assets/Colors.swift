@@ -24,6 +24,17 @@ public struct Colors {
     public static let purple_800 = Color("purple-800", bundle: bundle)
     public static let purple_900 = Color("purple-900", bundle: bundle)
     
+    public static let blue_50 = Color("blue-50", bundle: bundle)
+    public static let blue_100 = Color("blue-100", bundle: bundle)
+    public static let blue_200 = Color("blue-200", bundle: bundle)
+    public static let blue_300 = Color("blue-300", bundle: bundle)
+    public static let blue_400 = Color("blue-400", bundle: bundle)
+    public static let blue_500 = Color("blue-500", bundle: bundle)
+    public static let blue_600 = Color("blue-600", bundle: bundle)
+    public static let blue_700 = Color("blue-700", bundle: bundle)
+    public static let blue_800 = Color("blue-800", bundle: bundle)
+    public static let blue_900 = Color("blue-900", bundle: bundle)
+    
     public static let green_50 = Color("green-50", bundle: bundle)
     public static let green_100 = Color("green-100", bundle: bundle)
     public static let green_200 = Color("green-200", bundle: bundle)

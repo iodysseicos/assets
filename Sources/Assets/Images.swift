@@ -22,8 +22,18 @@ public typealias AssetImageTypeAlias = ImageAsset.Image
 
 // swiftlint:disable identifier_name line_length nesting type_body_length type_name
 public enum Images {
-  public static let dodge = ImageAsset(name: "dodge")
+  public static let moodAngry = ImageAsset(name: "mood_angry")
+  public static let moodAnxious = ImageAsset(name: "mood_anxious")
+  public static let moodApathetic = ImageAsset(name: "mood_apathetic")
   public static let moodCalm = ImageAsset(name: "mood_calm")
+  public static let moodConfused = ImageAsset(name: "mood_confused")
+  public static let moodEmotional = ImageAsset(name: "mood_emotional")
+  public static let moodEnergetic = ImageAsset(name: "mood_energetic")
+  public static let moodHappy = ImageAsset(name: "mood_happy")
+  public static let moodSad = ImageAsset(name: "mood_sad")
+  public static let moodSelfcritical = ImageAsset(name: "mood_selfcritical")
+  public static let moodTired = ImageAsset(name: "mood_tired")
+  public static let dodge = ImageAsset(name: "dodge")
   public static let pikachu = ImageAsset(name: "pikachu")
   public static let sadFrog = ImageAsset(name: "sad_frog")
 }

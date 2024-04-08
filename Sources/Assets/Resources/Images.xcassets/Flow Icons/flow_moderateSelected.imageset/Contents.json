@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "flow_moderateSelected.png",
+      "filename" : "Vectorflow_moderateSelected.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "flow_moderateSelected@2x.png",
+      "filename" : "Vectorflow_moderateSelected-1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "flow_moderateSelected@3x.png",
+      "filename" : "Vectorflow_moderateSelected-2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

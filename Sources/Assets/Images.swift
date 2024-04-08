@@ -22,6 +22,12 @@ public typealias AssetImageTypeAlias = ImageAsset.Image
 
 // swiftlint:disable identifier_name line_length nesting type_body_length type_name
 public enum Images {
+  public static let sexualActivitySelected = ImageAsset(name: "sexualActivity_Selected")
+  public static let sexualActivityNotSelected = ImageAsset(name: "sexualActivity_NotSelected")
+  public static let sexualActivityEnabled = ImageAsset(name: "sexualActivity_Enabled")
+  public static let protectionSelected = ImageAsset(name: "protection_Selected")
+  public static let protectionEnabled = ImageAsset(name: "protection_Enabled")
+
   public static let flowIntenseNotSelected = ImageAsset(name: "flow_intenseNotSelected")
   public static let flowIntenseSelected = ImageAsset(name: "flow_intenseSelected")
   public static let flowLightNotSelected = ImageAsset(name: "flow_lightNotSelected")
@@ -30,12 +36,14 @@ public enum Images {
   public static let flowModerateSelected = ImageAsset(name: "flow_moderateSelected")
   public static let flowVeryLightNotSelected = ImageAsset(name: "flow_veryLightNotSelected")
   public static let flowVeryLightSelected = ImageAsset(name: "flow_veryLightSelected")
+    
   public static let libidoHighNotSelected = ImageAsset(name: "libido_highNotSelected")
   public static let libidoHighSelected = ImageAsset(name: "libido_highSelected")
   public static let libidoLowNotSelected = ImageAsset(name: "libido_lowNotSelected")
   public static let libidoLowSelected = ImageAsset(name: "libido_lowSelected")
   public static let libidoModerateNotSelected = ImageAsset(name: "libido_moderateNotSelected")
   public static let libidoModerateSelected = ImageAsset(name: "libido_moderateSelected")
+    
   public static let moodAngry = ImageAsset(name: "mood_angry")
   public static let moodAnxious = ImageAsset(name: "mood_anxious")
   public static let moodApathetic = ImageAsset(name: "mood_apathetic")
@@ -47,6 +55,7 @@ public enum Images {
   public static let moodSad = ImageAsset(name: "mood_sad")
   public static let moodSelfcritical = ImageAsset(name: "mood_selfcritical")
   public static let moodTired = ImageAsset(name: "mood_tired")
+    
   public static let symptomAcne = ImageAsset(name: "symptom_acne")
   public static let symptomBackpain = ImageAsset(name: "symptom_backpain")
   public static let symptomBloating = ImageAsset(name: "symptom_bloating")
@@ -59,6 +68,8 @@ public enum Images {
   public static let symptomLargeappetite = ImageAsset(name: "symptom_largeappetite")
   public static let symptomNausea = ImageAsset(name: "symptom_nausea")
   public static let symptomTenderbreasts = ImageAsset(name: "symptom_tenderbreasts")
+  public static let symptomTiredness = ImageAsset(name: "symptom_tiredness")
+    
 }
 // swiftlint:enable identifier_name line_length nesting type_body_length type_name
 

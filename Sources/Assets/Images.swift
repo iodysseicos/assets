@@ -58,7 +58,6 @@ public enum Images {
   public static let symptomConstipation = ImageAsset(name: "symptom_constipation")
   public static let symptomCramps = ImageAsset(name: "symptom_cramps")
   public static let symptomDiarrhea = ImageAsset(name: "symptom_diarrhea")
-  public static let symptomFever = ImageAsset(name: "symptom_fever")
   public static let symptomHeadache = ImageAsset(name: "symptom_headache")
   public static let symptomInsomnia = ImageAsset(name: "symptom_insomnia")
   public static let symptomLackofappetite = ImageAsset(name: "symptom_lackofappetite")
